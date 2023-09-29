@@ -1,0 +1,27 @@
+body{
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-bottom:30px ;
+    margin-right: 40px;
+}
+#box{
+    width: 120vh;
+    height: 120vh;
+    margin-left: 200px;
+    color: black;
+    
+ 
+}
+h1{
+    text-align: center;
+    background-color: tomato;
+}
+#mail{
+    text-align: right;
+}
+.sub{
+background-color: cornflowerblue;
+}
+#sign{
+    text-align: right;
+}
