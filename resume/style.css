@@ -1,27 +1,44 @@
 body{
+    
     margin-top: 30px;
     margin-left: 40px;
     margin-bottom:30px ;
     margin-right: 40px;
 }
 #box{
-    width: 120vh;
+   
+    width: 100vh;
     height: 120vh;
+    align-items: center;
     margin-left: 200px;
-    color: black;
+    margin-top: 120px;
+    
     
  
 }
 h1{
+    color: aliceblue;
     text-align: center;
-    background-color: tomato;
+    background-color: rgb(75, 103, 194);
 }
-#mail{
+#name{
+    margin-top: 50px;
+    color:tomato;
+    font-size: 30px;
+    margin-left: 100px;
+
+}
+#email{
+    margin-top: -60px;
     text-align: right;
+}
+#phone{
+    text-align: right;
+    margin-right: 140px;
 }
 .sub{
 background-color: cornflowerblue;
 }
-#sign{
+.sign{
     text-align: right;
 }
